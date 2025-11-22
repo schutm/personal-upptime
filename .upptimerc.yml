@@ -5,15 +5,19 @@ repo: personal-upptime # The name of this repository
 sites:
   - name: Website
     url: https://www.wommm.nl
+    type: globalping
   - name: Webmail (backup)
     url: https://www.bhosted.nl/webmail
+    type: globalping
   - name: Mail (sending)
     url: smtp.meritieau.com
     port: 465
+    type: globalping
     check: "tcp-ping"
   - name: Mail (receiving)
     url: pop3.wommm.nl
     port: 110
+    type: globalping
     check: "tcp-ping"
 
 status-website:
