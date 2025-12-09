@@ -4,9 +4,9 @@
     "url": "https://mail.meritieau.com",
     "icon": "https://icons.duckduckgo.com/ip3/mail.meritieau.com.ico",
     "slug": "webmail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 176,
     "timeMonth": 222,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-09": 0
+    }
   },
   {
     "name": "Webmail (backup)",
     "url": "https://www.bhosted.nl/webmail",
     "icon": "https://icons.duckduckgo.com/ip3/www.bhosted.nl.ico",
     "slug": "webmail-backup",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 128,
     "timeMonth": 160,
     "timeYear": 160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-09": 0
+    }
   },
   {
     "name": "Mail (sending)",
     "url": "smtp.meritieau.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-sending",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 21,
     "timeMonth": 23,
     "timeYear": 23,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-09": 0
+    }
   },
   {
     "name": "Mail (receiving)",
     "url": "pop3.wommm.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-receiving",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,6 +75,8 @@
     "timeWeek": 22,
     "timeMonth": 28,
     "timeYear": 28,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-09": 0
+    }
   }
 ]
