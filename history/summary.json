@@ -4,19 +4,19 @@
     "url": "https://mail.meritieau.com",
     "icon": "https://icons.duckduckgo.com/ip3/mail.meritieau.com.ico",
     "slug": "webmail",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 89,
-    "timeWeek": 176,
-    "timeMonth": 222,
-    "timeYear": 222,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 215,
+    "timeDay": 82,
+    "timeWeek": 163,
+    "timeMonth": 215,
+    "timeYear": 215,
     "dailyMinutesDown": {
-      "2025-12-09": 0
+      "2025-12-09": 22
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.bhosted.nl/webmail",
     "icon": "https://icons.duckduckgo.com/ip3/www.bhosted.nl.ico",
     "slug": "webmail-backup",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 160,
-    "timeDay": 148,
-    "timeWeek": 128,
+    "timeDay": 151,
+    "timeWeek": 132,
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2025-12-09": 0
+      "2025-12-09": 22
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "smtp.meritieau.com",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-sending",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.50%",
+    "uptimeWeek": "99.79%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 23,
-    "timeDay": 27,
-    "timeWeek": 21,
+    "timeDay": 19,
+    "timeWeek": 20,
     "timeMonth": 23,
     "timeYear": 23,
     "dailyMinutesDown": {
-      "2025-12-09": 0
+      "2025-12-09": 22
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "pop3.wommm.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-receiving",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "98.49%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 28,
     "timeDay": 14,
-    "timeWeek": 22,
+    "timeWeek": 21,
     "timeMonth": 28,
     "timeYear": 28,
     "dailyMinutesDown": {
-      "2025-12-09": 0
+      "2025-12-09": 22
     }
   }
 ]
