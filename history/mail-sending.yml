@@ -1,7 +1,7 @@
 url: smtp.meritieau.com
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-01-11T15:35:46.821Z
+status: up
+code: 200
+responseTime: 12
+lastUpdated: 2026-01-11T15:47:47.580Z
 startTime: 2025-11-22T20:48:35.989Z
 generator: Upptime <https://github.com/upptime/upptime>
