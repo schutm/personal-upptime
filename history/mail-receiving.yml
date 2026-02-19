@@ -1,7 +1,7 @@
 url: pop3.wommm.nl
-status: down
-code: 403
-responseTime: 0
-lastUpdated: 2026-02-19T23:34:04.341Z
+status: up
+code: 200
+responseTime: 14
+lastUpdated: 2026-02-19T23:36:00.291Z
 startTime: 2025-11-22T20:48:37.064Z
 generator: Upptime <https://github.com/upptime/upptime>
