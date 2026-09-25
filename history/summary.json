@@ -58,16 +58,16 @@
     "url": "https://www.bhosted.nl/webmail",
     "icon": "https://icons.duckduckgo.com/ip3/www.bhosted.nl.ico",
     "slug": "webmail-backup",
-    "status": "down",
-    "uptime": "99.65%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.65%",
+    "status": "up",
+    "uptime": "99.57%",
+    "uptimeDay": "76.75%",
+    "uptimeWeek": "96.68%",
+    "uptimeMonth": "99.24%",
+    "uptimeYear": "99.57%",
     "time": 290,
-    "timeDay": 350,
-    "timeWeek": 399,
-    "timeMonth": 376,
+    "timeDay": 364,
+    "timeWeek": 398,
+    "timeMonth": 377,
     "timeYear": 290,
     "dailyMinutesDown": {
       "2025-12-09": 22,
@@ -106,7 +106,7 @@
       "2026-03-30": 108,
       "2026-04-26": 38,
       "2026-04-29": 149,
-      "2026-09-25": 0
+      "2026-09-25": 335
     }
   },
   {
