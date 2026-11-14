@@ -12,8 +12,8 @@
     "uptimeYear": "99.71%",
     "time": 171,
     "timeDay": 219,
-    "timeWeek": 132,
-    "timeMonth": 147,
+    "timeWeek": 134,
+    "timeMonth": 145,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2025-12-09": 22,
@@ -66,8 +66,8 @@
     "uptimeYear": "99.63%",
     "time": 306,
     "timeDay": 385,
-    "timeWeek": 390,
-    "timeMonth": 389,
+    "timeWeek": 395,
+    "timeMonth": 390,
     "timeYear": 306,
     "dailyMinutesDown": {
       "2025-12-09": 22,
@@ -122,7 +122,7 @@
     "uptimeYear": "99.71%",
     "time": 20,
     "timeDay": 11,
-    "timeWeek": 21,
+    "timeWeek": 20,
     "timeMonth": 21,
     "timeYear": 20,
     "dailyMinutesDown": {
@@ -168,15 +168,15 @@
     "url": "pop3.wommm.nl",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "mail-receiving",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 23,
     "timeDay": 28,
-    "timeWeek": 19,
+    "timeWeek": 20,
     "timeMonth": 20,
     "timeYear": 23,
     "dailyMinutesDown": {
@@ -214,7 +214,8 @@
       "2026-03-25": 37,
       "2026-03-30": 108,
       "2026-04-26": 38,
-      "2026-04-29": 149
+      "2026-04-29": 149,
+      "2026-11-14": 0
     }
   }
 ]
